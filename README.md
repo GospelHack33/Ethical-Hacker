@@ -1,5 +1,5 @@
 # MapSploit
-Nmap Framework v3.6
+Nmap Framework v5.0
 
 # Description 
 MapSploit Is A Nmap Framework Designed To Scan For Vulnerabilities Or Exploits In Target 
