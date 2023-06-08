@@ -7,6 +7,10 @@ MapSploit Is A Nmap Framework Designed To Scan For Vulnerabilities Or Exploits I
 # Usage
 MapSploit Can Only Be Installed In Termux, Before Installing MapSploit, Make Sure To Have (nmap) Package Installed In Termux!!!
 
+cd MapSploit
+chmod +x install.sh
+./install.sh
+
 help - mapsploit help
 
 # Warning
