@@ -1,4 +1,6 @@
 # install nmap package
+clear
+echo
 echo "[+] Installing MapSploit Package... " 
 echo
 apt install nmap
