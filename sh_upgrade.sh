@@ -1,0 +1,2 @@
+# sh upgrade is a linux shell based upgrade (bourne again shell)
+python -c "import cfonts,time,pty,subprocess; from colorama import Fore;  print(cfonts.render('BASH')); print(Fore.YELLOW+'[+] The Bourne Again Shell Upgrade...\n'+Fore.WHITE); time.sleep(2); print(Fore.RED+'[+] Keeping DIRS Files'+Fore.WHITE); time.sleep(3);  print(Fore.GREEN+'\n[*] Upgrading Shell...'+Fore.WHITE); time.sleep(3); print(Fore.YELLOW+'\n############## Welcome To Shell (BASH) ###############\n'+Fore.WHITE); pty.spawn('/bin/bash')"
